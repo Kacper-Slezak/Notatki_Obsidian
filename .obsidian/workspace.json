@@ -1,0 +1,196 @@
+{
+  "main": {
+    "id": "ae136b15998b77ac",
+    "type": "split",
+    "children": [
+      {
+        "id": "fd2d85fa10c2a4d5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ac64bbc79264a40d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Przedmioty - Notatki/BSTI/Laboratorium 2.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Laboratorium 2"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d0b22ec81a9a42b1",
+    "type": "split",
+    "children": [
+      {
+        "id": "3f19fb04116e7609",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6f8a3538701a7bcf",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Przeglądarka plików"
+            }
+          },
+          {
+            "id": "8e5104ff54e1364e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Szukaj"
+            }
+          },
+          {
+            "id": "e6cd29c4ad7bdc43",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Ulubione"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "6a477f5552657928",
+    "type": "split",
+    "children": [
+      {
+        "id": "37abcf583c11085c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3ac664f729b36cb0",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Przedmioty - Notatki/Sieci Komórkowe/Bez nazwy.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Linki zwrotne do Bez nazwy"
+            }
+          },
+          {
+            "id": "a2b7fa1724a9b16a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Przedmioty - Notatki/BSTI/Laboratorium 2.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Łącza wychodzące z Laboratorium 2"
+            }
+          },
+          {
+            "id": "167d08a1975890f9",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tagi"
+            }
+          },
+          {
+            "id": "a707dff444f06ede",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Przedmioty - Notatki/BSTI/Laboratorium 2.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Konspekt Laboratorium 2"
+            }
+          },
+          {
+            "id": "5da069782f0abc95",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Otwórz okno szybkiego wyboru": false,
+      "canvas:Stwórz nową tablicę": false,
+      "daily-notes:Otwórz codzienną notatkę": false,
+      "command-palette:Otwórz listę poleceń": false,
+      "graph:Otwórz graf": false,
+      "templates:Wstaw szablon": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "5da069782f0abc95",
+  "lastOpenFiles": [
+    "Przedmioty - Notatki/BSTI/Współczesne Szyfry Symetryczne.md",
+    "Przedmioty - Notatki/BSTI/Laboratorium 2.md",
+    "Przedmioty - Notatki/CPS/Lab 2.md",
+    "Przedmioty - Notatki/BSTI",
+    "Przedmioty - Notatki/Sieci Komórkowe/Bez nazwy.md",
+    "Przedmioty - Notatki/CPS",
+    "Witaj.md",
+    "Przedmioty - Notatki/Sieci Komórkowe",
+    "Przedmioty - Notatki"
+  ]
+}
