@@ -2,5 +2,10 @@
   "obsidian-excalidraw-plugin",
   "dataview",
   "table-editor-obsidian",
-  "obsidian-git"
+  "obsidian-git",
+  "obsidian-latex-suite",
+  "templater-obsidian",
+  "obsidian-tasks-plugin",
+  "obsidian-advanced-slides",
+  "marp-slides"
 ]
