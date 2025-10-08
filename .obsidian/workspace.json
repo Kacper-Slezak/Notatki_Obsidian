@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "6a477f5552657928",
@@ -187,10 +186,10 @@
       "marp-slides:Show Slide Preview": false
     }
   },
-  "active": "5da069782f0abc95",
+  "active": "93cc48c2710ad5d3",
   "lastOpenFiles": [
-    "Semestr 5/UM/Przetwarzanie danych na potrzeby uczenia maszynowego.md",
     "Semestr 5/EMIM/AI w grach planaszowych.md",
+    "Semestr 5/UM/Przetwarzanie danych na potrzeby uczenia maszynowego.md",
     "Semestr 5/UM",
     "Semestr 5/BAIM/Projekty z przed roku.md",
     "Semestr 5/EMIM",
