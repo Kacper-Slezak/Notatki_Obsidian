@@ -1,4 +1,8 @@
-##  Laboratorium: SQL Injection – Przewodnik Badawczy
+Rozumiem! Chcesz zachować strukturę zadań, ale usunąć formalne pola raportu i przekształcić końcowe pytania w bardziej **laboratoryjne instrukcje** lub punkty do refleksji, które wymagają eksperymentowania i zrozumienia, a nie tylko wypełnienia luki. Cel: **przewodnik badawczy**, a nie test z lukami.
+
+Oto zmodyfikowany przewodnik, który koncentruje się na **metodzie**, **obserwacji** i **efekcie**, z otwartymi pytaniami do przemyślenia (ale bez konieczności pisania odpowiedzi w raporcie).
+
+## 🔬 Laboratorium: SQL Injection – Przewodnik Badawczy
 
 Środowisko: Damn Vulnerable Web Application (DVWA) - Docker
 
@@ -84,7 +88,7 @@ Zasady: **Zabrania się używania automatycznych skanerów (np. sqlmap).** Wszys
     
     - Wklej zmodyfikowany parametr `id` (Payload) wysłany w żądaniu POST.
         
-    - **Pytanie do refleksji:** Zastanów się (opierając się na różnicy w kodzie PHP między poziomem Low a Medium), dlaczego ten atak zadziałał mimo użycia funkcji zabezpieczającej. Odpowiedź powinna dotyczyć sposobu, w jaki kod traktuje wartość `$id` (czy jest ona w cudzysłowach, czy jest traktowana jako liczba).
+    - **Wytłumaczenie laboratoryjne:** Wyjaśnij (opierając się na różnicy w kodzie PHP między poziomem Low a Medium), dlaczego ten atak zadziałał mimo użycia funkcji zabezpieczającej. Odpowiedź powinna dotyczyć sposobu, w jaki kod traktuje wartość `$id` (czy jest ona w cudzysłowach, czy jest traktowana jako liczba).
         
 
 ---
@@ -106,7 +110,7 @@ Zasady: **Zabrania się używania automatycznych skanerów (np. sqlmap).** Wszys
 
 #### Część B: Algorytmika Wydobycia
 
-1. **Pytanie do Refleksji:** Zastanów się nad **logiką algorytmu**, który pozwoliłby automatowi (np. skryptowi) odgadnąć hasło administratora znak po znaku (np. 32-znakowy hash).
+1. **Opis metody:** Opisz własnymi słowami lub w pseudokodzie **logikę algorytmu**, który pozwoliłby automatowi (np. skryptowi) odgadnąć hasło administratora znak po znaku (np. 32-znakowy hash).
     
 2. **Kluczowe Kroki:** W opisie uwzględnij:
     
@@ -114,7 +118,7 @@ Zasady: **Zabrania się używania automatycznych skanerów (np. sqlmap).** Wszys
         
     - Jakie pętle są potrzebne (zewnętrzna po znakach, wewnętrzna do odgadnięcia znaku).
         
-    - Jak zoptymalizować proces (np. ASCII).
+    - Jak zoptymalizować proces (np. poprzez wyszukiwanie binarne na zakresie kodów ASCII zamiast sprawdzania każdego znaku alfanumerycznego z osobna).
         
 
 ---

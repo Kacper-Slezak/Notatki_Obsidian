@@ -1,0 +1,4 @@
+- Splot - filtrowanie w celu rozpoznania cech 
+- Agregacja
+- Cel: wytworzeni [[zanurzenia obrazowego]]
+- Zastosowania: klasyfikacja
