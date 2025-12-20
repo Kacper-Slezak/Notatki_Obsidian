@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "b4ec4c02683cb7a1",
+        "id": "9a60e2c4b55f1321",
         "type": "tabs",
         "children": [
           {
-            "id": "c13ab086db1ddcbe",
+            "id": "0afd85e10351e847",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Semestr 5/UM/Uczenie ze wzmocnieniem.md",
+                "file": "Semestr 5/BST/Wkłady/Wykład_13_IEEE_802.11_Rozszerzenia_II_i_AX.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Uczenie ze wzmocnieniem"
+              "title": "Wykład_13_IEEE_802.11_Rozszerzenia_II_i_AX"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:802.11g",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 588.5
   },
   "right": {
     "id": "6a477f5552657928",
@@ -178,7 +178,6 @@
       "graph:Otwórz graf": false,
       "templates:Wstaw szablon": false,
       "random-note:Otwórz losową notatkę": false,
-      "obsidian-excalidraw-plugin:New drawing": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-git:Open Git source control": false,
       "templater-obsidian:Templater": false,
@@ -186,35 +185,38 @@
       "marp-slides:Show Slide Preview": false
     }
   },
-  "active": "c13ab086db1ddcbe",
+  "active": "6f8a3538701a7bcf",
   "lastOpenFiles": [
-    "Bez nazwy.md",
-    "Semestr 5/UM/Uczenie ze wzmocnieniem.md",
-    "Semestr 5/BAIM/Rozwiązania.md",
-    "Semestr 5/Koło naukowe/Spotkanie 10.12.25.md",
-    "Semestr 5/BAIM/SQL-Injections.md",
-    "Semestr 5/BAIM/Flagi.md",
-    "Semestr 5/BAIM/SQLi.md",
-    "Semestr 5/BST/Bez nazwy.md",
-    "Semestr 5/EMIM/sprint8_być_może (1).md",
-    "Semestr 5/UM/Zanurzenia.md",
-    "Semestr 5/UM/Architektury sztucznych sieci neuronowych.md",
-    "warstwa splotowa.md",
-    "Semestr 5/BST/Lab 5.md",
+    "Semestr 5/BST/Wkłady/Wykład_12_IEEE_802.11_Rozszerzenia_I.md",
+    "Semestr 5/BST/Wkłady/Wykład_11_IEEE_802.11_Bezpieczenstwo.md",
+    "Semestr 5/BST/Wkłady/Wykład_10_IEEE_802.11_Standardy_Pomocnicze.md",
+    "Semestr 5/BST/Wkłady/Wykład_9_IEEE_802.11_QoS_i_Rozszerzenia.md",
+    "Semestr 5/BST/Wkłady/Wykład_8_IEEE_802.11_Zarzadzanie.md",
+    "Semestr 5/BST/Wkłady/Wykład_7_IEEE_802.11_MAC.md",
+    "Semestr 5/BST/Wkłady/Wykład_6_IEEE_802.11_PHY.md",
+    "Semestr 5/BST/Wkłady/Wykład_13_IEEE_802.11_Rozszerzenia_II_i_AX.md",
+    "2025-12-20.md",
+    "Semestr 5/BST/000 BST wiki MOC.md",
+    "Semestr 5/BST/Wiki/070 Standardy High Throughput (802.11n i ac).md",
+    "099 Indeks wszystkich standardów.md",
+    "Semestr 5/BST/Wiki/099 Alfabet Standardów 802.11.md",
+    "Semestr 5/BST/Wykład 2.md",
+    "Semestr 5/BST/Laboratoria",
+    "Semestr 5/BST/Wiki",
+    "Semestr 5/BST/Wkłady",
+    "Semestr 5/BST/Wykład 1.md",
+    "Semestr 5/BST/Wiki/100 Standardy Podstawowe (a, b, g, n, ac, ax).md",
+    "Semestr 5/BST/Wiki/080 Wi-Fi 6 (802.11ax) i OFDMA.md",
+    "Semestr 5/BST/Wiki/060 Bezpieczeństwo WLAN (802.11i).md",
+    "Semestr 5/BST/Wiki/050 QoS i Multimedia (802.11e).md",
+    "Semestr 5/BST/Wiki/042 Zarządzanie i Stany.md",
+    "Semestr 5/BST/Wiki/041 Struktura Ramki MAC.md",
+    "Semestr 5/BST/Wiki/040 Warstwa MAC i Dostęp (DCF, PCF).md",
+    "Semestr 5/BST/Wiki/030 Warstwa Fizyczna Legacy (FHSS, DSSS, IR).md",
+    "Semestr 5/BST/Wiki/010 Wstęp i Pasma Radiowe.md",
+    "Semestr 5/BST/Wiki/020 Architektura Sieci 802.11.md",
+    "Semestr 5/BST/030 Warstwa MAC i Dostęp.md",
     "Zdjęcia/Pasted image 20251125200919.png",
-    "Semestr 5/UM/Metody płytkie.md",
-    "Semestr 5/UM/Przetwarzanie danych na potrzeby uczenia maszynowego.md",
-    "Pooling.md",
-    "zanurzenia obrazowego.md",
-    "Semestr 5/UM/Regresja liniowa.md",
-    "Semestr 5/EMIM/Sprint-7.md",
-    "Semestr 5/EMIM/Sprint 7.md",
-    "Semestr 5/EMIM/Bez nazwy.md",
-    "Semestr 5/EMIM/Zadania do końca sprintu.md",
-    "Semestr 5/EMIM/Poprawki 16.11.25.md",
-    "Semestr 5/IO/Wymagania na Entry-System.md",
-    "Semestr 5/IO/Master Document - Projekt FactoryGuard.md",
-    "Semestr 5/EMIM/Sprint 5.md",
     "Semestr 5/EMIM/6d-dune-imperium-rulebook.pdf",
     "Semestr 5/Koło naukowe",
     "Zdjęcia/Pasted image 20251024112524.png",
@@ -230,9 +232,6 @@
     "Semestr 5/IO",
     "Semestr 5/WSSD",
     "Semestr 5/UM",
-    "Semestr 5/EMIM",
-    "Semestr 5/BAIM",
-    "Semestr 5/Routing Wewnętrzny/Bez nazwy",
-    "Semestr 5/Routing Wewnętrzny"
+    "Semestr 5/EMIM"
   ]
 }
