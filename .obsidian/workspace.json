@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 588.5
+    "width": 200
   },
   "right": {
     "id": "6a477f5552657928",
@@ -166,7 +166,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 438.5
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -185,7 +185,7 @@
       "marp-slides:Show Slide Preview": false
     }
   },
-  "active": "6f8a3538701a7bcf",
+  "active": "5da069782f0abc95",
   "lastOpenFiles": [
     "Semestr 5/BST/Wkłady/Wykład_12_IEEE_802.11_Rozszerzenia_I.md",
     "Semestr 5/BST/Wkłady/Wykład_11_IEEE_802.11_Bezpieczenstwo.md",
