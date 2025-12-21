@@ -1,3 +1,12 @@
+---
+tags:
+  - wpa2
+  - 8021x
+  - eap
+  - zarządzanie
+---
+
+
 **1. Architektura 802.1X (RSN):**
 
 - **Supplicant:** Klient (laptop/smartfon).

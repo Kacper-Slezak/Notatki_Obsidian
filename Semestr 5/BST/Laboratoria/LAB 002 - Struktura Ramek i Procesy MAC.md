@@ -1,3 +1,10 @@
+---
+tags:
+  - mac
+  - CTS
+  - RTS
+---
+
 **1. Analiza typów ramek w Wireshark:**
 
 - **Beacon:** Ramka zarządzająca wysyłana cyklicznie przez AP (zwykle co 100 TU). Zawiera SSID, parametry PHY, obsługiwane prędkości oraz mapę TIM (Traffic Indication Map) dla stacji w trybie oszczędzania energii.

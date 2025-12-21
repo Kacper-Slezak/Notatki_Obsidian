@@ -1,3 +1,11 @@
+---
+tags:
+  - adhoc
+  - csma
+  - ibss
+---
+
+
 **1. Charakterystyka IBSS (Independent BSS):**
 
 - Brak centralnego AP. Wszystkie stacje są równe i odpowiedzialne za synchronizację (rozproszony mechanizm TSF) oraz rozgłaszanie ramek Beacon.

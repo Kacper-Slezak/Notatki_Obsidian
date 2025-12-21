@@ -1,3 +1,11 @@
+---
+tags:
+  - wirtualizacja
+  - vap
+  - iptables
+---
+
+
 **1. Koncepcja wirtualizacji interfejsów:**
 
 - **VIF (Virtual Interface):** Możliwość zdefiniowania wielu logicznych sieci (np. „Office” i „Guest”) na jednym fizycznym radiu.

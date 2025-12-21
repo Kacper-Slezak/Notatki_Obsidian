@@ -1,3 +1,9 @@
+---
+tags:
+  - bluetooth
+---
+
+
 **1. Architektura Bluetooth:**
 
 - **Piconet:** Sieć utworzona przez jedną stację Master i do siedmiu stacji Slave.

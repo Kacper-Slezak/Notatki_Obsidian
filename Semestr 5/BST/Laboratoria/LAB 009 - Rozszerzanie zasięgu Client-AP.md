@@ -1,3 +1,11 @@
+---
+tags:
+  - mimo
+  - 80211n
+  - wds
+---
+
+
 **1. Metody zwiększania pokrycia sygnałem:**
 
 - **Universal Repeater:** Urządzenie odbiera sygnał z głównego AP jako klient i jednocześnie retransmituje go jako nowy AP. Wada: Przepustowość spada o połowę, ponieważ radio musi naprzemiennie odbierać i nadawać te same dane.

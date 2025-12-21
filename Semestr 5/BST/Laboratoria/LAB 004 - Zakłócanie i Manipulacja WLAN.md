@@ -1,3 +1,11 @@
+---
+tags:
+  - RTS
+  - CTS
+  - ataki
+---
+
+
 **1. Nadużycia ramek zarządzających i kontrolnych:**
 
 - **Beacon Flooding:** Atakujący generuje tysiące fałszywych ramek Beacon z różnymi SSID. Powoduje to „zniknięcie” prawdziwej sieci na liście wyboru u klienta oraz może doprowadzić do zawieszenia sterownika karty sieciowej skanującej pasmo.

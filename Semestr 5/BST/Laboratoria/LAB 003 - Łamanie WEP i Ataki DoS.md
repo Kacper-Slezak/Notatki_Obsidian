@@ -1,3 +1,10 @@
+---
+tags:
+  - wep
+  - rc4
+---
+
+
 **1. Istota problemu – dlaczego WEP upadł?**
 
 - **Podatność wektora inicjującego (IV):** WEP używa 24-bitowego pola IV przesyłanego tekstem jawnym. Przy ograniczonej przestrzeni (ok. 16 milionów kombinacji) i dużym natężeniu ruchu, te same wartości IV powtarzają się bardzo szybko (kolizje IV).

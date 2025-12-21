@@ -1,3 +1,12 @@
+---
+tags:
+  - ataki
+  - wps
+  - pmk
+  - wpa
+---
+
+
 **1. Mechanizm WPA-PSK (Personal):**
 
 - **4-Way Handshake:** Proces wymiany Nonce (liczb losowych) między AP a STA w celu wygenerowania klucza sesji (PTK) bez przesyłania hasła przez sieć. Podatność polega na tym, że jeśli przechwycimy tę wymianę, możemy przeprowadzić atak słownikowy/brute-force offline.

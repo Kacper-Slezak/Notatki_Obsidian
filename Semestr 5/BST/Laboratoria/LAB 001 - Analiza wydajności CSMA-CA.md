@@ -1,3 +1,7 @@
+---
+tags:
+  - csma
+---
 
 **1. Mechanizm Backoff i okno rywalizacji (CW):**
 
