@@ -1,25 +1,22 @@
 
 ## Lab 03: WEP i Ataki (Aircrack-ng)
-
-1. Wymień nazwy ataków, gdy Wi-Fi nie jest w zasięgu.
+1. Wyjaśnij pojęcie ataku _Zero Knowledge_.
     
-2. Wyjaśnij pojęcie ataku _Zero Knowledge_.
+2. Wyjaśnij do czego służy narzędzie Kismet.
     
-3. Wyjaśnij do czego służy narzędzie Kismet.
+3. Wyjaśnij pojęcie _Packet Injection_ (wstrzykiwanie pakietów).
     
-4. Wyjaśnij pojęcie _Packet Injection_ (wstrzykiwanie pakietów).
+4. Do czego używa się _airodump-ng_?.
     
-5. Do czego używa się _airodump-ng_?.
+5. Do czego służy _airbase-ng_?.
     
-6. Do czego służy _airbase-ng_?.
+6. Wyjaśnij co to jest _Airplay-ng_.
     
-7. Wyjaśnij co to jest _Airplay-ng_.
+7. Jak długi jest IV (Initialization Vector), z czego się składa i jak go odczytać/rozkodować z ramki?.
     
-8. Jak długi jest IV (Initialization Vector), z czego się składa i jak go odczytać/rozkodować z ramki?.
+8. Na czym polega _replay attack_?.
     
-9. Na czym polega _replay attack_?.
-    
-10. Opisz schemat kodowania WEP oraz narysuj schemat blokowy dekodowania ramki.
+9. Opisz schemat kodowania WEP oraz narysuj schemat blokowy dekodowania ramki.
     
 
 

@@ -14,7 +14,7 @@ Pierwsza wersja standardu (1997) definiowała trzy media transmisyjne. Wszystkie
 
 ## 2. FHSS (Frequency Hopping Spread Spectrum)
 * **Zasada:** Sygnał "skacze" po wąskich kanałach w losowej sekwencji.
-* **Pasmo:** 2.4 GHz podzielone na **79 kanałów** o szerokości **1 MHz**.
+* **Pasmo:** 2.4 GHz podzielone na **2- 79 kanałów** o szerokości **1 MHz**.
 * **Modulacja:**
     * **2-GFSK** (Gaussian FSK) dla 1 Mbps.
     * **4-GFSK** dla 2 Mbps.

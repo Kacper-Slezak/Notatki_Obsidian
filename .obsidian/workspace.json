@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "6da0095ee65d2f05",
+        "id": "76a531d91f9777b3",
         "type": "tabs",
         "children": [
           {
-            "id": "18c3046ad74a7768",
+            "id": "25f071f5b60a07ef",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Semestr 5/BST/Laboratoria/Pytania Lab 010.md",
+                "file": "Semestr 5/BST/Wiki/004 Standard 802.11 e.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Pytania Lab 010"
+              "title": "004 Standard 802.11 e"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:architektura",
+                "query": "fake auth",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -61,7 +61,7 @@
                 "sortOrder": "alphabetical"
               },
               "icon": "lucide-search",
-              "title": "Szukaj"
+              "title": "Wyszukiwarka"
             }
           },
           {
@@ -170,12 +170,12 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "graph:Otwórz podgląd grafu": false,
+      "daily-notes:Otwórz dzisiejszy dziennik": false,
       "bases:Stwórz nową bazę danych": false,
       "switcher:Otwórz okno szybkiego wyboru": false,
       "canvas:Stwórz nową tablicę": false,
-      "daily-notes:Otwórz codzienną notatkę": false,
       "command-palette:Otwórz listę poleceń": false,
-      "graph:Otwórz graf": false,
       "templates:Wstaw szablon": false,
       "random-note:Otwórz losową notatkę": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
@@ -185,34 +185,39 @@
       "marp-slides:Show Slide Preview": false
     }
   },
-  "active": "18c3046ad74a7768",
+  "active": "25f071f5b60a07ef",
   "lastOpenFiles": [
-    "Semestr 5/BST/Laboratoria/Pytania Lab 009.md",
-    "Semestr 5/BST/Laboratoria/Pytania Lab 008.md",
-    "Semestr 5/BST/Laboratoria/Pytania Lab 007.md",
-    "Semestr 5/BST/Laboratoria/Pytania Lab 006.md",
-    "Semestr 5/BST/Laboratoria/Pytania Lab 005.md",
-    "Semestr 5/BST/Laboratoria/Pytania Lab 004.md",
-    "Semestr 5/BST/Laboratoria/Pytania Lab 003.md",
-    "Semestr 5/BST/Laboratoria/Pytania Lab 002.md",
-    "Semestr 5/BST/Laboratoria/Pytania Lab 001.md",
-    "Semestr 5/BST/Laboratoria/Pytania Lab 010.md",
-    "Semestr 5/BST/Laboratoria/LAB 009 - Rozszerzanie zasięgu Client-AP.md",
-    "Semestr 5/BST/Wiki/042 Zarządzanie i Stany.md",
-    "Semestr 5/BST/Wiki/041 Struktura Ramki MAC.md",
-    "Semestr 4/CPS/Lab11.md",
-    "Semestr 4/CPS/Lab 3.md",
-    "Semestr 5/WSSD/06 Kultura DevOps i Tooling.md",
-    "Semestr 5/WSSD/04 Cyberbezpieczeństwo i Zarządzanie Ryzykiem.md",
-    "Semestr 5/WSSD/01 Fundamenty Sieciowe i Model Warstwowy.md",
-    "Semestr 5/WSSD/02 DNS – Serce Internetu.md",
-    "Semestr 5/UM/Metody płytkie.md",
-    "Semestr 5/UM/Zanurzenia.md",
-    "Semestr 5/UM/Uczenie maszynowe a bezpieczeństwo.md",
-    "Semestr 5/UM/Uczenie ze wzmocnieniem.md",
-    "Semestr 5/UM/Przetwarzanie danych na potrzeby uczenia maszynowego.md",
-    "Semestr 5/UM/Architektury sztucznych sieci neuronowych.md",
-    "Semestr 5/UM/Regresja logistyczna.md",
+    "Semestr 5/BST/Wiki/003 Standard 802.11c, d.md",
+    "Semestr 5/BST/Wiki/004 Standard 802.11 e.md",
+    "Semestr 5/BST/Wiki/002 Standard 802.11b.md",
+    "Semestr 5/BST/Wiki/Bez nazwy.md",
+    "Semestr 5/BST/Wiki/001 Standard 802.11a.md",
+    "Semestr 5/BST/Laboratoria/LAB 003 - Łamanie WEP i Ataki DoS.md",
+    "Semestr 5/BST/Laboratoria/LAB 002 - Struktura Ramek i Procesy MAC.md",
+    "Semestr 5/BST/Wiki/060 Bezpieczeństwo WLAN (802.11i).md",
+    "Semestr 5/BST/Wiki/070 Standardy High Throughput (802.11n i ac).md",
+    "Semestr 5/BST/Wiki/102 Standardy Roaming i Mesh (f, r, s, z).md",
+    "Semestr 5/BST/Wiki/103 Standardy Specjalne i IoT (p, af, ah, ad).md",
+    "Semestr 5/BST/Wiki/101 Standardy Zarządzające (c, d, h, k, v).md",
+    "Semestr 5/BST/Wiki/100 Standardy Podstawowe (a, b, g, n, ac, ax).md",
+    "Semestr 5/BST/Wiki/099 Alfabet Standardów 802.11.md",
+    "Semestr 5/BST/Wiki/030 Warstwa Fizyczna Legacy (FHSS, DSSS, IR).md",
+    "Semestr 5/BST/Wiki/040 Warstwa MAC i Dostęp (DCF, PCF).md",
+    "Semestr 5/BST/Wiki/020 Architektura Sieci 802.11.md",
+    "Semestr 5/BST/Wiki/010 Wstęp i Pasma Radiowe.md",
+    "Semestr 5/BST/000 BST wiki MOC.md",
+    "Semestr 5/UM/009 Tuning.md",
+    "Semestr 5/UM/008 Architektury sztucznych sieci neuronowych.md",
+    "Semestr 5/UM/007 Sieci Neuronowe.md",
+    "Semestr 5/UM/010 Zanurzenia.md",
+    "Semestr 5/UM/006 Uczenie nie nadzoworowane.md",
+    "Semestr 5/UM/011 Transformery.md",
+    "Semestr 5/UM/Regresja liniowa.md",
+    "Pasted image 20260123141407.png",
+    "Pasted image 20260123125016.png",
+    "Pasted image 20260123112630.png",
+    "Pasted image 20260123112555.png",
+    "Pasted image 20260123112543.png",
     "Semestr 5/EMIM/6d-dune-imperium-rulebook.pdf",
     "Semestr 5/BST/Laboratoria",
     "Semestr 5/BST/Wiki",
@@ -224,11 +229,6 @@
     "Zdjęcia",
     "Zdjęcia/Pasted image 20251024112036.png",
     "Zdjęcia/Pasted image 20251024111815.png",
-    "Zdjęcia/Pasted image 20251024111802.png",
-    "Zdjęcia/Pasted image 20251024111732.png",
-    "Zdjęcia/Pasted image 20251024110422.png",
-    "Zdjęcia/Pasted image 20251024105904.png",
-    "Zdjęcia/Pasted image 20251024105744.png",
     "Semestr 5/IO",
     "Semestr 5/WSSD",
     "Semestr 5/UM",
