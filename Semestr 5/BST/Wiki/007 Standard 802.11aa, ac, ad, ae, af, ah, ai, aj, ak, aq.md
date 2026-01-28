@@ -46,7 +46,7 @@
 	- Możliwość równoległej transmisji od AP do 4 stacji downlink
 	- Dedykowane do urządzeń mobilnych 
 - 5GHz pasmo
-- Zmiana RIFS (Reduced Inter-Frame Spacing) okresu czasowego z [[006 Standard 802.11j, k , n| 802.11n]] bardziej wydajną funkcją agregacji ramek  (1048575 octets (the maximum size of A-MPDU in IEEE 802.11n is only 65535 octets))
+- Zmiana RIFS (Reduced Inter-Frame Spacing) okresu czasowego z [[005 Standard 802.11j, k , n| 802.11n]] bardziej wydajną funkcją agregacji ramek  (1048575 octets (the maximum size of A-MPDU in IEEE 802.11n is only 65535 octets))
 - Kompatybilność wsteczna z 802.11a oraz 802,11n
 
 # Standard 802.11ad

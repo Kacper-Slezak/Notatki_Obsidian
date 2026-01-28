@@ -19,8 +19,8 @@
 ### Statystyki
 
 - Operuje na 2.4GHz
-- 3 ortogonalne kanały jak w [[002 Standard 802.11b | 802.11b]]
-- Jest kompatybilny wstecznie z [[002 Standard 802.11b | 802.11b]]
+- 3 ortogonalne kanały jak w [[001 Standard 802.11b| 802.11b]]
+- Jest kompatybilny wstecznie z [[001 Standard 802.11b| 802.11b]]
 - Przepustowość 22 Mbit/s za pomocą PBCC
 - Używa CCK 802.11b modulacji co daje 1-11 Mbit/s
 - Używa OFDM 802.11a modulacji co daje 6-4 Mbit/s

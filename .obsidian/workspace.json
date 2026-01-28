@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Semestr 5/BST/Wiki/008 Standard 802.11 aa, ac, ad.md",
+                "file": "Semestr 5/BST/Wiki/009 Standard 802.11ay.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "008 Standard 802.11 aa, ac, ad"
+              "title": "009 Standard 802.11ay"
             }
           }
         ]
@@ -185,16 +185,20 @@
       "marp-slides:Show Slide Preview": false
     }
   },
-  "active": "05514731d2a4dca6",
+  "active": "5da069782f0abc95",
   "lastOpenFiles": [
-    "Semestr 5/BST/Wiki/007 Standard 802.11p,r,s,u,v,w,y,z.md",
-    "Semestr 5/BST/Wiki/006 Standard 802.11j, k , n.md",
-    "Semestr 5/BST/Wiki/005 Standard 802.11f, g, h, i.md",
+    "Semestr 5/BST/Wiki/008 Standard 802.11ax.md",
+    "Semestr 5/BST/Wiki/009 Standard 802.11ay.md",
+    "Semestr 5/BST/Wiki/007 Standard 802.11aa, ac, ad, ae, af, ah, ai, aj, ak, aq.md",
+    "Semestr 5/BST/Wiki/006 Standard 802.11p,r,s,u,v,w,y,z.md",
+    "Semestr 5/BST/Wiki/005 Standard 802.11j, k , n.md",
+    "Semestr 5/BST/Wiki/004 Standard 802.11f, g, h, i.md",
+    "Semestr 5/BST/Wiki/003 Standard 802.11e.md",
+    "Semestr 5/BST/Wiki/002 Standard 802.11c, d.md",
+    "Semestr 5/BST/Wiki/001 Standard 802.11b.md",
+    "Semestr 5/BST/Wiki/000 Standard 802.11a.md",
+    "Semestr 5/BST/Wiki/Bez nazwy.canvas",
     "Semestr 5/BST/Wiki/006 Standard 802.11h, i.md",
-    "Semestr 5/BST/Wiki/004 Standard 802.11e.md",
-    "Semestr 5/BST/Wiki/003 Standard 802.11c, d.md",
-    "Semestr 5/BST/Wiki/002 Standard 802.11b.md",
-    "Semestr 5/BST/Wiki/008 Standard 802.11 aa, ac, ad.md",
     "Pasted image 20260128210602.png",
     "Pasted image 20260128210605.png",
     "Pasted image 20260128210601.png",
@@ -204,11 +208,8 @@
     "Semestr 5/BST/Wkłady/Wykład_8_IEEE_802.11_Zarzadzanie.md",
     "Semestr 5/BST/Wkłady/Wykład_7_IEEE_802.11_MAC.md",
     "Semestr 5/BST/Wkłady/Wykład_6_IEEE_802.11_PHY.md",
-    "Semestr 5/BST/Wiki/Bez nazwy.canvas",
     "Semestr 5/UM.7z",
     "Semestr 5/BST.7z",
-    "Semestr 5/BST/Wiki/Bez nazwy.md",
-    "Semestr 5/BST/Wiki/001 Standard 802.11a.md",
     "Semestr 5/BST/Laboratoria/LAB 003 - Łamanie WEP i Ataki DoS.md",
     "Semestr 5/BST/Laboratoria/LAB 002 - Struktura Ramek i Procesy MAC.md",
     "Semestr 5/BST/Wiki/060 Bezpieczeństwo WLAN (802.11i).md",
@@ -217,8 +218,6 @@
     "Semestr 5/BST/Wiki/103 Standardy Specjalne i IoT (p, af, ah, ad).md",
     "Semestr 5/BST/Wiki/101 Standardy Zarządzające (c, d, h, k, v).md",
     "Semestr 5/BST/Wiki/100 Standardy Podstawowe (a, b, g, n, ac, ax).md",
-    "Semestr 5/BST/Wiki/099 Alfabet Standardów 802.11.md",
-    "Semestr 5/BST/Wiki/030 Warstwa Fizyczna Legacy (FHSS, DSSS, IR).md",
     "Pasted image 20260123141407.png",
     "Pasted image 20260123125016.png",
     "Pasted image 20260123112630.png",
