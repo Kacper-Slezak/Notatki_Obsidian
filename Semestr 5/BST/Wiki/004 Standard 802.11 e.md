@@ -1,2 +1,0 @@
-# Standard wprowadzający QoS 
-## HCF
