@@ -65,5 +65,65 @@
 
 # Standard 802.11ae 
 
-- Celem jest priorytetyzacja ramek zarządzania
-- 
+- Celem jest priorytetyzacja ramek zarządzania, aby nie zginęły wśród zwykłych danych
+
+1. Problemem w starszych sieciach było to że ramki te były wysyłane w klasie Best Effort
+2. Wtedy duże obciążenie równa się opóźnienie albo utrata
+3. Definiuje też protokół sygnalizacyjny do wymiany polityk QoS między urządzeniami
+## Mechanizm QMF 
+
+- Pozwala na przypisanie ramkom zarządzającym odpowiednią kategorie usługi
+- Dzięki czemu większość dostaje najwyższy priorytet Alternative Voice
+
+# Standard 802.11af
+
+- Zakres częstotliwości VHF i UHF (od 54 MHz do 790MHz)
+- użycie technologii radia kognitywnego oraz użycie pomiarów aby odkryć dostępna pasma częstotliwości
+- Jest możliwa dzięki temu standardowi realizacja operacji WLAN na paśmie zarezerwowanym dla Telewizji
+- Warstwa fizyczna opiera się na 802.11ac
+- Szerokość kanału od 6 do 8 MHz ( w zależności od kraju)
+- MIMO z 4 strumieniami przestrzennymi z użyciem STBC kodów lub MU-MIMO
+- Maksymalna dostępna przepustowość to 26.7 Mbit/s dla 6 i 7 MHz i 35.6 Mbit/s dla 8 MHz
+	- 4 streams and 4 bonded channels, the maximum possible throughput is 426,7 Mbps for 6 and 7 MHz channels and 568,9 Mbps for 8 MHz channel
+- Użycie GPS do zlokalizowania stacji bazowej jest wymagane
+- USA pozwala na maksymalna moc transmisji równą 100 mW dla 6MHz lub 40 mW jeśli wykryje transmisje na sąsiednim kanale 
+
+# Standard 802.11ah
+
+- Zaprojektowany do komunikacji M2M (Machine to machine)
+- Działa w paśmie poniżej 1 GHz 
+
+## Cechy 
+
+- Niskie zużycie energii zasięg - idealny dla czujników bateryjnych bo niska częstotliwość oraz dobre mechanizmy oszczędzania energii
+- Skalowalność - jeden AP może obsługiwać tysiące stacji końcowych jednocześnie 
+- Aby uniknąć kolizji przy tak dużej liczbie urządzeń wprowadzono podział na sektory w BSS
+- Warstwa fizyczna bazuje na 802.11a/g
+- Dostępnych jest 26 kanałów z których każdy daje przepustowość na poziomie 100 Kbit/s
+- Stacje przekaźnikowe - możliwe użycie stacji przekaźnikowych do maksymalnie dwóch hopów
+- Dwukierunkowe TXOP - w trakcie jednego okresu czasowego można nadawac w dóch kierunkach down i up
+
+# Standard 802.11ai
+
+- Wprowadzono procedure FILS (Fast Initial Link Setup) dla zabezpieczenia połączeń miedzy AP i stacja w bardzo krótkim oknie czasowym (>100 ms)
+- Duża liczba stacji mobilnych użytkowników stale dołącza i opuszcza powierzchnie istniejącego ESS
+- Otrzymanie adresu IP i natychmiastowy start wymiany ruchu z użyciem AP 
+- Zmniejszenie ilości widomości potrzebnych do bezpiecznego połączenia z 27 do 4
+- Czas procedury handover został zredukowany z 10 sekund do 0.5 sekundy
+- Poprawa procedury handover kiedy zmieniamy AP z innym SSID
+- Zmniejszenie ilości ramek zarządzania potrzebnych do asocjacji
+- Wprowadzono usprawnienia w warstwie MAC redukujące liczbę ramek Probe Responses i optymalizujące skanowanie pasma zwiększa to przepustowość sieci o 20 - 50 procent
+
+# Standard 802.11 aj
+
+- adaptacja 802.11ad dla użycia w Chinach w CMMW ( Chinese Mili-Meter Wave) paśmie
+- Modyfikacja warstwy Fizycznej i MAC aby pracować na 45 GHZ
+
+# Standard 802.11 ak
+
+- Integracja stacji z 802.11 do standardu 802.3 czyli Ethernet i usprawnienie funkcji mostkowania
+- Precyzuje procedury pozwalające na tworzenie tranzytowych połączeń wewnętrznych w oparciu o standard 802.1Q kluczowe dla sieci przemysłowych 
+# Standard 802.11 aq
+
+- umożliwia wykrywanie usług przed nawiązaniem połączenia Pre-Association Discovery 
+- Można pobrać listę dostępnych usług przed połączeniem z AP
