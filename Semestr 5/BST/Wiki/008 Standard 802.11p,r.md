@@ -16,5 +16,20 @@
 # Standard 802.11 r 
 
 - Fast Roaming
-- Zmniejszenie narzutu czasowego pomiędzy komórkami WLAN 
+- Zmniejszenie czasu przełączania pomiędzy komórkami WLAN 
 - Zapewniając poprawny QoS i bezpieczeństwo
+
+## Cel
+
+- VOIP 
+- Zadaniem 802.11r jest skrócenie czasu przerwy w połączeniu do 50 ms 
+- Kluczowe dla aplikacji czasu rzeczywistego takich jak rozmowy głosowe 
+## Metoda 
+
+- W standardowym roamingu szczególnie w przypadku Enetrprais stacje przy każdej zmianie AP musi łączyć się z serwerem RADIUS  co trwa długo 
+- 802.11r pozwala na wygenereowanie kluczy kryptograficznych z wyprzedzeniem lub w sposób skrócony 
+1. Over-the-Air
+	- Stacja komunikuje się bezpośrednio z nowym AP, zanim jeszcze rozłączy się ze starym
+	- Z użyciem FT-Authentication i FT-(Re)Association ramek i generuje klucz 
+2. Over-the-DS
+	- stacja komunikuje się z nowym AP za pośrednictwem starego AP przez siec kablową przydatne gdy sygnał jest słaby 
