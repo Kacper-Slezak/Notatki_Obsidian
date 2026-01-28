@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Semestr 5/BST/Wiki/007 Standard 802.11j, k , n.md",
+                "file": "Semestr 5/BST/Wiki/008 Standard 802.11p.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "007 Standard 802.11j, k , n"
+              "title": "008 Standard 802.11p"
             }
           }
         ]
@@ -187,13 +187,14 @@
   },
   "active": "25f071f5b60a07ef",
   "lastOpenFiles": [
+    "Semestr 5/BST/Wiki/007 Standard 802.11j, k , n.md",
+    "Semestr 5/BST/Wiki/008 Standard 802.11p.md",
     "Semestr 5/BST/Wkłady/Wykład_12_IEEE_802.11_Rozszerzenia_I.md",
     "Semestr 5/BST/Wkłady/Wykład_10_IEEE_802.11_Standardy_Pomocnicze.md",
     "Semestr 5/BST/Wkłady/Wykład_9_IEEE_802.11_QoS_i_Rozszerzenia.md",
     "Semestr 5/BST/Wkłady/Wykład_8_IEEE_802.11_Zarzadzanie.md",
     "Semestr 5/BST/Wkłady/Wykład_7_IEEE_802.11_MAC.md",
     "Semestr 5/BST/Wkłady/Wykład_6_IEEE_802.11_PHY.md",
-    "Semestr 5/BST/Wiki/007 Standard 802.11j, k , n.md",
     "Semestr 5/BST/Wiki/004 Standard 802.11e.md",
     "Semestr 5/BST/Wiki/Bez nazwy.canvas",
     "Semestr 5/BST/Wiki/006 Standard 802.11h, i.md",
@@ -215,7 +216,6 @@
     "Semestr 5/BST/Wiki/099 Alfabet Standardów 802.11.md",
     "Semestr 5/BST/Wiki/030 Warstwa Fizyczna Legacy (FHSS, DSSS, IR).md",
     "Semestr 5/BST/Wiki/040 Warstwa MAC i Dostęp (DCF, PCF).md",
-    "Semestr 5/BST/Wiki/020 Architektura Sieci 802.11.md",
     "Pasted image 20260123141407.png",
     "Pasted image 20260123125016.png",
     "Pasted image 20260123112630.png",
