@@ -46,7 +46,7 @@
 	- Możliwość równoległej transmisji od AP do 4 stacji downlink
 	- Dedykowane do urządzeń mobilnych 
 - 5GHz pasmo
-- Zmiana RIFS (Reduced Inter-Frame Spacing) okresu czasowego z [[007 Standard 802.11j, k , n | 802.11n]] bardziej wydajną funkcją agregacji ramek  (1048575 octets (the maximum size of A-MPDU in IEEE 802.11n is only 65535 octets))
+- Zmiana RIFS (Reduced Inter-Frame Spacing) okresu czasowego z [[006 Standard 802.11j, k , n| 802.11n]] bardziej wydajną funkcją agregacji ramek  (1048575 octets (the maximum size of A-MPDU in IEEE 802.11n is only 65535 octets))
 - Kompatybilność wsteczna z 802.11a oraz 802,11n
 
 # Standard 802.11ad
@@ -62,3 +62,8 @@
 	2. OFDM - najwyższa wydajność dla dużych transferów 64-QAM 
 	3. Speed spectrum - najwolniejszy tryb sterujący 27.5 Mbit/s, π/2-DBPSK modulation
 4. 2,5 Gbit/s (π/2-QPSK) dla oszczędzania energii
+
+# Standard 802.11ae 
+
+- Celem jest priorytetyzacja ramek zarządzania
+- 
