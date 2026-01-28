@@ -90,3 +90,30 @@
 3. Optymalizuje ruch multicastowy
 
 # Standard 802.11w 
+
+- Celuje w uwierzytelnianie i szyfrowanie ramek zarządzania
+
+1. Wprowadza definicje mechanizmów które zapewniają integralność danych, autentyczność pochodzenia danych, ochronę przed replay atakami i innymi np. rozłączaniem stacji z AP
+
+# Standard 802.11y
+
+- Zaprojektowany na rynek amerykański 
+
+## Cechy
+
+- Pasmo 3.6-3.7 GHz
+- Pozwala na nadawanie z mocą do 20W
+- Wprowadza mechanizm DSE - Dependent Station Enablement 
+	- Stacje nie potrzebują licencji ale 
+	- Są zależne nie mogą nadawać bez sygnału z stacji bazowej licencjonowanej
+- Z powodu współdzielenia pasma z innymi wprowadzono mechanizm Contention Based Protocol - wymusza on na urządzeniach sprawdzanie dostępności kanału przed nadawaniem
+- ECSA - ulepszony mechanizm informowania klientów przez AP o planowanej zmianie kanału lub jego szerokości co pozwala na płynne uciekanie przed zakłóceniami
+
+# Standard 802.11z
+
+- TDLS - Tunneled Direct Link Setup 
+1. Definiuje mechanizm który pozwala 802.11 utworzyć bezpośrednie połączenie pomiędzy urządzeniami klienckimi pozostając zasocjowane z AP
+2. Umożliwia dwóm urządzeniom podłączonym do tego samego AP (np. laptopowi i drukarce lub telewizorowi) zestawienie **bezpośredniego tunelu** radiowego między sobą.
+3. Bez interwencji AP zestawiamy połączenie
+4. Są chronione przez najwyższe możliwe standardy dostępne na urządzeniach klienckich
+5. Definiuje ulepszony mechanizm oszczędzania energii
