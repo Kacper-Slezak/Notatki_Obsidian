@@ -55,4 +55,12 @@
 
 - łączy dwa podejścia do wyznaczania tras 
 - stosowany w sieciach Mesh
-1. Reaktywne (On-demand) 
+1. Reaktywne (On-demand)
+	- używa intra-mesh routing dla optymalizacji
+	- szuka ścieżki dopiero jak chce wysłać dane do innej stacji wewnątrz sieci
+	- kiedy nie ma root portal albo nawet kiedy jest to może dać lepszą ścieżkę
+	- oferuje świetną elastyczność w zmieniającym się środowisku
+2. Proaktywne (Tree-based)
+	- Kiedy root portal jest obecny tworzymy drzewo routingu vektorów dystansu 
+	- Każdy węzeł zawsze zna drogę do wyjścia z sieci co eliminuje konieczność ciągłego wyszukiwania w trasy
+	- Jest bardzo wydajne w przypadku stałego deploymentu sieci kratowej
