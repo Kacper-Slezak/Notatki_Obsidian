@@ -64,3 +64,29 @@
 	- Kiedy root portal jest obecny tworzymy drzewo routingu vektorów dystansu 
 	- Każdy węzeł zawsze zna drogę do wyjścia z sieci co eliminuje konieczność ciągłego wyszukiwania w trasy
 	- Jest bardzo wydajne w przypadku stałego deploymentu sieci kratowej
+## Inne
+
+- Tryb adresacji opiera się na 6 polach w nagłówku MAC
+- Nowy protokół dostępu zwany MCCA - Mesh Controlled Channel Access
+	- integruje elementy wprowadzone w EDCA i HCCA
+	- pozwala węzłom na rezerwację czasu transmisji, aby uniknąć kolizji wewnątrz sieci mesh
+	- bardziej przewidywalne isochroniczne dostarczanie usług szczególnie w przypadku dużych ramek
+- Procedura rozwiązująca problem bezpieczeństwa kiedy asocjujemy nową stacje do sieci mesh - AMPE (Authenticated Mesh Peering Exchange)
+
+
+# Standard 802.11u
+
+- umożliwia współprace z sieciami zewnętrznymi przede wszystkim komórkowymi 
+1. Zrzucanie automatyczne ruchu danych z przeciążonej sieci komórkowej do Wi-Fi
+2. Pozwala na integracje z systemami autoryzacji sieci komórkowych
+3. Punkt dostępowy potrafi wysłać w jednej ramce rozgłoszeniowej lite dostępnych operatorów 
+4. Wsparcie dla połączeń alarmowych
+
+# Standard 802.11v
+
+- Pozwala infrastrukturze sieciowej na konfigurowanie parametrów stacji 
+1. Umożliwia wymianę informacji o topologii sieci, obciążeniu kanału i poziomie zakłóceń 
+2. Wprowadza mechanizm oszczędzania energii
+3. Optymalizuje ruch multicastowy
+
+# Standard 802.11w 
