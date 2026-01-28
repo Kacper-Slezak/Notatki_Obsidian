@@ -18,7 +18,6 @@
 - Fast Roaming
 - Zmniejszenie czasu przełączania pomiędzy komórkami WLAN 
 - Zapewniając poprawny QoS i bezpieczeństwo
-
 ## Cel
 
 - VOIP 
@@ -33,3 +32,27 @@
 	- Z użyciem FT-Authentication i FT-(Re)Association ramek i generuje klucz 
 2. Over-the-DS
 	- stacja komunikuje się z nowym AP za pośrednictwem starego AP przez siec kablową przydatne gdy sygnał jest słaby 
+	- Te same ramki
+
+# Standard 802.11 s
+
+- Sieci Mesh/Kratowe 
+
+## Budowa
+
+1. Portal Mesh 
+	- pracuje jako brama/most do zewnętrznych sieci
+
+2. Mesh STA
+	- zakłada połączenie peer z Mesh Portalem są soąsiadami
+	- pełny uczestnik w WLAN Mesh services
+3. Mesh AP 
+	- Funkcjonalność MP, skolokowane z AP który zapewnie BSS servies
+4. STA
+	- Poza siecią Mesh 
+	- Połączone z Mesh AP
+## HWMP - Hybrid Wireless Mesh Protocol
+
+- łączy dwa podejścia do wyznaczania tras 
+- stosowany w sieciach Mesh
+1. Reaktywne (On-demand) 
