@@ -17,13 +17,13 @@ Standard definiuje warstwę fizyczną (PHY) i podwarstwę MAC. Architektura opie
 ## Usługi (Services)
 Standard dzieli usługi na stacyjne (SS) i dystrybucyjne (DS).
 
-| Usługi Stacyjne (SS)                   | Usługi Systemu Dystrybucyjnego (DS) |
-| :------------------------------------- | :---------------------------------- |
-| Uwierzytelnianie (Authentication)      | Asocjacja (Association)             |
-| Od-uwierzytelnianie (Deauthentication) | Reasocjacja (Reassociation)         |
-| Prywatność (Privacy/Encryption)        | Deasocjacja (Disassociation)        |
-| Dostarczanie danych (Data Delivery)    | Integracja (Integration)            |
-|                                        | Dystrybucja (Distribution)          |
+| Usługi Stacyjne (SS)                   | Usługi Systemu Dystrybucyjnego (DSS) |
+| :------------------------------------- | :----------------------------------- |
+| Uwierzytelnianie (Authentication)      | Asocjacja (Association)              |
+| Od-uwierzytelnianie (Deauthentication) | Reasocjacja (Reassociation)          |
+| Prywatność (Privacy/Encryption)        | Deasocjacja (Disassociation)         |
+| Dostarczanie danych (Data Delivery)    | Integracja (Integration)             |
+|                                        | Dystrybucja (Distribution)           |
 
 > [!note] Roaming
 > Roaming to *nie* jest standardowa usługa w podstawowym 802.11. To "Reasocjacja" pozwala na przemieszczanie się, ale decyzja "kiedy się przełączyć" należy do sterownika karty sieciowej klienta.
