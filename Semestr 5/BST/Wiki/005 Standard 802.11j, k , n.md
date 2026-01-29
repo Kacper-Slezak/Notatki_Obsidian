@@ -47,6 +47,7 @@
 - Zasięg wewnątrz 70 m na zewnątrz 250 m
 - Technologia MIMO
 - Kompatybilność wsteczna dla a/b/g
+- 64-QAM
 ## Zmiany
 
 - Oparty o 802.11g

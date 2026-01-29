@@ -13,6 +13,7 @@
 ## Częstotliwość
 
 - 2.4 GHz - ISM band
+- DQPSK
 
 ## Bezpieczeństwo
 

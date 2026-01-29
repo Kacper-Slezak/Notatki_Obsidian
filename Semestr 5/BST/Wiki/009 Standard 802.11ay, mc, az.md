@@ -30,4 +30,6 @@
 - Bezpieczeństwo
 	- Wprowadza mechanizmy chroniące przed fałszowaniem lokalizacji
 	- poprzez zabezpieczenie sekwencji pomiarowych w warstwie fizycznej
-- Pasywna lokalizacja - lokalizowanie wielu użytkowników jednocześnie bez generowania dodatkowego obciążenia sieci dla każdego z nich z osobna z
+- Pasywna lokalizacja - lokalizowanie wielu użytkowników jednocześnie bez generowania dodatkowego obciążenia sieci dla każdego z nich z osobna 
+
+# Standard 802.11bc
