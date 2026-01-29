@@ -7,6 +7,12 @@
 1. 6, 9 , 12 , 18, 24, 36, 48, 54 Mbit
 2. 6, 12, 24 jest wymuszone
 
+## Modulacje
+
+- BPSK
+- QPSK
+- 16-QAM
+- 64-QAM
 ## Zasięg transmisji
 
 - 100 m na zewnątrz, 10 metrów w budynku

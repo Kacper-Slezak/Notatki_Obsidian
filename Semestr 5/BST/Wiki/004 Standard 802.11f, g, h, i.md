@@ -28,6 +28,13 @@
 - 802.11g i 802.11a 
 - zasięg na 54 Mbit/s to 40 m
 
+## Modulacje 
+
+- BPSK
+- QPSK
+- 16-QAM
+- 64-QAM
+
 ### Tryby pracy 
 
 - ERP-DSS zapewnia kompatybilność wsteczną z 802.11b
