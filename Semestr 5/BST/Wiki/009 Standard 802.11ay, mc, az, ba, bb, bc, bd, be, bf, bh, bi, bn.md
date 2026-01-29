@@ -167,7 +167,7 @@
 	4. Interfejsy - sterowane za pomocą gestów
 - Pasmo od 1 GHz do 7.125 GHz oraz pasmo milimetrowe poniżej 45 GHz 
 
-# Standard 802.11bf
+# Standard 802.11bh
 
 - Losowy i zmieniający się adres MAC (RCM)
 - Cel to kompromis między prywatnością użytkownika oraz poprawnym identyfikowaniem
